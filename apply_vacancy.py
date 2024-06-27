@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from faker import Faker
 
+# i am doing all this for practice and to learn
 
 class JoinOurTeamTest:
     def __init__(self):
